@@ -22,3 +22,6 @@ The code used for data preprocessing and modeling.
 Please check code folder for detailed instruction.   
 There are also pretained models that can generate stock price.   
 
+### Publication
+https://thescipub.com/abstract/jcssp.2021.188.196
+
